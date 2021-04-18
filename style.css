@@ -1,0 +1,60 @@
+body {background-color:rgb(90, 83, 73);
+}
+h1{
+    color:rgb(116, 126, 116);
+    position:relative;
+    margin-left: 15%;
+}
+.principal{
+    background-color: white;
+    border-radius: 20px;
+    width: 500px;
+    height:auto;
+    min-height:350px;
+    margin: auto;
+    
+}
+.conteneur{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    align-content: center;
+    width: auto;
+    height: auto;
+    
+}
+
+.element{
+    
+    background-color:blue;
+    width: auto;
+    height: auto;
+    
+}
+
+table{
+    height: 140px;
+    margin-bottom:10px;
+}
+#rate{
+    width:73%;
+}
+#years{
+    width:30%;
+}
+#rich{
+    margin:20px;
+}
+#result{
+    display: block;
+    margin-left:18%;
+}
+
+p>span{
+    background-color:yellow;
+}
+
+
+
